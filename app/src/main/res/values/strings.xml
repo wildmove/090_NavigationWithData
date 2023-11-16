@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">090_NavigationWithData</string>
+    <string name="teh_lemon">Lemon Tea</string>
+    <string name="teh_leci">Lychee Tea</string>
+    <string name="teh_sereh">Sereh Tea</string>
+    <string name="teh_original">Original Tea</string>
 </resources>
