@@ -10,4 +10,10 @@
     <string name="nama">Nama</string>
     <string name="alamat">Alamat</string>
     <string name="tlp">Telpon</string>
+    <string name="kuantitas">Kuantitas</string>
+    <string name="rasa">Rasa</string>
+    <string name="subtotal">Subtotal: Rp %s</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
 </resources>
