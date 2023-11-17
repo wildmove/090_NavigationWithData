@@ -5,4 +5,9 @@
     <string name="teh_sereh">Sereh Tea</string>
     <string name="teh_original">Original Tea</string>
     <string name="next">Next</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="tlp">Telpon</string>
 </resources>
