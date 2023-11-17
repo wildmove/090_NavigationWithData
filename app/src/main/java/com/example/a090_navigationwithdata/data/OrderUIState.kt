@@ -4,7 +4,7 @@ data class OrderUIState(
     val nama:String = "",
     val alamat: String = "",
     val tlp: String = "",
-    val kuantitas: String = "",
+    val kuantitas: Int = 0,
     val rasaa: String = "",
     val harga: String = "",
 )
